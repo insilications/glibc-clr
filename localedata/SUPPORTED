@@ -1,6 +1,7 @@
 # This file names the currently supported and somewhat tested locales.
 # If you have any additions please file a glibc bug report.
 SUPPORTED-LOCALES=\
+C.UTF-8/UTF-8 \
 agr_PE/UTF-8 \
 az_IR/UTF-8 \
 bho_NP/UTF-8 \
